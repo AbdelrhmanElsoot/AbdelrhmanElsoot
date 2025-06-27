@@ -5,11 +5,11 @@
 
 ---
 
-<img align="right" width="50%" src="[https://media.licdn.com/dms/image/v2/D4E03AQF2zUgu3Cl0Fg/profile-displayphoto-shrink_800_800/B4EZVyELkfG0Ac-/0/1741375454961?e=1756339200&v=beta&t=Z-l1KM_zvODxz-qiTZqEssTZ1c8vPUxQ6P0TYx_lWu8]"/>
+<img align="right" width="150px" src="https://media.licdn.com/dms/image/v2/D4E03AQF2zUgu3Cl0Fg/profile-displayphoto-shrink_800_800/B4EZVyELkfG0Ac-/0/1741375454961?e=1756339200&v=beta&t=Z-l1KM_zvODxz-qiTZqEssTZ1c8vPUxQ6P0TYx_lWu8" alt="Abdelrhman Elsoot's Photo" style="border-radius: 50%;" />
 
 ### 👨‍💻 About Me:
 
-- 🔭 I'm currently learning **Flutter**.
+- 🔭 I'm currently learning **Flutter** .
 - 💡 I'm also studying **C++** to understand software engineering and programming fundamentals.
 - 🧠 Passionate about **clean code**, **design patterns**, and **SOLID principles**.
 - 📌 Actively exploring tools like **Firebase**, **Supabase**, and local storage options like **Sqflite** and **Hive**.
@@ -32,4 +32,6 @@
 ![n8n](https://img.shields.io/badge/n8n-A72EF4?style=flat&logo=n8n&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
+---
 
+> ✍️ *This README was customized by [Abdelrhman A. Elsoot](https://github.com/AbdelrhmanElsoot)*

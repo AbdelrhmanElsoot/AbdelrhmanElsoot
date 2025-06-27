@@ -34,13 +34,4 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AbdelrhmanElsoot&show_icons=true&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrhmanElsoot&layout=compact&hide_border=true" />
-</p>
-
----
-
 > ✍️ *This README was customized by [Abdelrhman A. Elsoot](https://github.com/AbdelrhmanElsoot)*

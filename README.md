@@ -5,7 +5,7 @@
 
 ---
 
-<img align="right" width="50%" src="[https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" alt="GitHub Banner](https://media.licdn.com/dms/image/v2/D4E03AQF2zUgu3Cl0Fg/profile-displayphoto-shrink_800_800/B4EZVyELkfG0Ac-/0/1741375454961?e=1756339200&v=beta&t=Z-l1KM_zvODxz-qiTZqEssTZ1c8vPUxQ6P0TYx_lWu8)"/>
+<img align="right" width="50%" src="[https://media.licdn.com/dms/image/v2/D4E03AQF2zUgu3Cl0Fg/profile-displayphoto-shrink_800_800/B4EZVyELkfG0Ac-/0/1741375454961?e=1756339200&v=beta&t=Z-l1KM_zvODxz-qiTZqEssTZ1c8vPUxQ6P0TYx_lWu8]"/>
 
 ### 👨‍💻 About Me:
 

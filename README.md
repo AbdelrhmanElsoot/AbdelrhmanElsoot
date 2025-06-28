@@ -13,7 +13,6 @@
 - 💡 I'm also studying **C++** to understand software engineering and programming fundamentals.
 - 🧠 Passionate about **clean code**, **design patterns**, and **SOLID principles**.
 - 📌 Actively exploring tools like **Firebase**, **Supabase**, and local storage options like **Sqflite** and **Hive**.
-- 💬 Feel free to reach out on LinkedIn, always happy to connect and share knowledge!
 
 ---
 
